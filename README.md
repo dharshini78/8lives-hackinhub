@@ -22,7 +22,7 @@ Clone the 8Lives. repository onto local machine.
 git clone https://github.com/Bogeshwararao/8Lives.git
 ```
 Open the index.html file and ensure it displays the following:
- <img src="https://raw.githubusercontent.com/dharshini78/8Lives/main/UI%20of%20the%20dApp/dApp's%20UI/1.png" data-canonical-src="https://raw.githubusercontent.com/dharshini78/8Lives/main/UI%20of%20the%20dApp/dApp's%20UI/1.png" width="756" height="406"/>
+ <img src="https://github.com/dharshini78/8lives-hackinhub/blob/master/UI%20of%20project/1.png" data-canonical-src="https://github.com/dharshini78/8lives-hackinhub/blob/master/UI%20of%20project/1.png" width="756" height="406"/>
  
 ## Setting up the Environment
 - Go to https://remix.ethereum.org and import the OrganDonation.sol file.
@@ -46,13 +46,12 @@ The website should now show that is it online.
 
 # Donor registration form
 
- <img src="https://raw.githubusercontent.com/Bogeshwararao/8Lives/main/UI%20of%20the%20dApp/dApp's%20UI/2.png" data-canonical-src="https://raw.githubusercontent.com/Bogeshwararao/8Lives/main/UI%20of%20the%20dApp/dApp's%20UI/2.png" width="756" height="406"/>
+ <img src="https://github.com/dharshini78/8lives-hackinhub/blob/master/UI%20of%20project/Screenshot%202022-10-20%20104719.png" data-canonical-src="https://github.com/dharshini78/8lives-hackinhub/blob/master/UI%20of%20project/Screenshot%202022-10-20%20104719.png" width="756" height="406"/>
  
  # Authorize XDCPay
 
-  <img src="https://raw.githubusercontent.com/Bogeshwararao/8Lives/main/UI%20of%20the%20dApp/dApp's%20UI/3.png" data-canonical-src="https://raw.githubusercontent.com/Bogeshwararao/8Lives/main/UI%20of%20the%20dApp/dApp's%20UI/3.png" width="756" height="406"/>
+  <img src="https://github.com/dharshini78/8lives-hackinhub/blob/master/UI%20of%20project/Screenshot%202022-10-20%20104936.png" data-canonical-src="https://github.com/dharshini78/8lives-hackinhub/blob/master/UI%20of%20project/Screenshot%202022-10-20%20104936.png" width="756" height="406"/>
   
   # Transaction made successfully
 
-   <img src="https://github.com/Bogeshwararao/8Lives/blob/main/UI%20of%20the%20dApp/dApp's%20UI/4.png?raw=true" data-canonical-src="https://github.com/Bogeshwararao/8Lives/blob/main/UI%20of%20the%20dApp/dApp's%20UI/4.png?raw=true" width="756" height="406"/>
 
